@@ -1,3 +1,7 @@
+![Screenshot (37)](https://github.com/sandeshuk400/Spring_Crud_Employee_Application/assets/160419627/988bba7d-3e8c-4f31-ab31-380ff23e2818)
+![Screenshot (36)](https://github.com/sandeshuk400/Spring_Crud_Employee_Application/assets/160419627/92c0fc77-3744-4bb5-9a2b-523877340777)
+![Screenshot (35)](https://github.com/sandeshuk400/Spring_Crud_Employee_Application/assets/160419627/a6317b2d-f1a2-44d2-accf-af51ecc9c508)
+![Screenshot (34)](https://github.com/sandeshuk400/Spring_Crud_Employee_Application/assets/160419627/12145385-a2bc-48f9-ac0b-c14d1321c295)
 # Spring_Crud_Employee_Application
 The Employee Management  System is a Java-based application create by using Spring Tool Suite (STS). It aims to efficiently manage various aspects of employee information within a office setting. The project utilizes the JRE System library to handle database operations.
 
